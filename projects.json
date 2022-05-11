@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project 1 Jeopardy Trainer",
+      "live": "https://sean3434.github.io/Jeopardy-Trainer/",
+      "git": "https://github.com/sean3434/Jeopardy-Trainer",
+      "image": "https://camo.githubusercontent.com/0978c73a1dd5b06bbeb3dc6182c44f36f5be671130891c7dc4264feccfd7717c/68747470733a2f2f692e696d6775722e636f6d2f6256657843624e2e706e67"
+    },
+    {
+      "name": "project2 Sixty-Three",
+      "live": "https://sixtythree.herokuapp.com/",
+      "git": "https://github.com/sean3434/SixtyThree",
+      "image": "https://github.com/sean3434/SixtyThree/raw/main/public/images/screen_shot.png"
+    }
+  ]
